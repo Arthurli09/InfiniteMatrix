@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/MI_HealthPack.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/MI_Projectile.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/SM_Projectile.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/SM_Enemy.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Ammo.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_NewProjectile.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/StaticMesh.uasset",
+				"D:/Arthur/Documents/UIUC/Year 3/Semester 1/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BM_Projectile.uasset"
+			]
+		}
+	]
+}
